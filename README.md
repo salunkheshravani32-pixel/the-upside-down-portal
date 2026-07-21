@@ -117,6 +117,7 @@ Deployment
 
 🏗️ Project Architecture
 
+```
 the-upside-down-portal/
 │
 ├── backend/
@@ -168,6 +169,7 @@ the-upside-down-portal/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ---
 
@@ -225,10 +227,12 @@ The frontend will be available at the Vite development URL shown in your termina
 
 The backend requires the following environment variables:
 
+```
 Variable    | Description
 "PORT"      | Backend server port
 "MONGO_URI" | MongoDB Atlas connection string
 "JWT_SECRET"| Secret key used for JWT authentication
+```
 
 ⚠️ Never commit your ".env" file or database credentials to GitHub.
 
@@ -252,6 +256,7 @@ The frontend communicates with the deployed backend through Axios API requests.
 
 🔄 Application Flow
 
+```
 User
   │
   ▼
@@ -269,6 +274,7 @@ Express.js Backend
   │
   ▼
 MongoDB Database
+```
 
 ---
 
