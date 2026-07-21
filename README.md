@@ -224,7 +224,7 @@ The frontend will be available at the Vite development URL shown in your termina
 ---
 
 🔐 Environment Variables
-
+#
 The backend requires the following environment variables:
 
 |Variable | Description |
