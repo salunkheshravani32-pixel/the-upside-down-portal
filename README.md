@@ -296,35 +296,41 @@ MongoDB Database
 
 «Screenshots of the application will be added here.»
 
-🏠 Home Page
+🏠 Home Page..
 
 ![Home Page](./screenshots/home.png)
 ![About Section](./screenshots//home1.png)
 ![Features Section](./screenshots/home2.png)
 ![Home Page Footer](./screenshots/home3.png)
 
-Login Page
+🔐 Login Page..
 
 ![Login Page](./screenshots/login.png)
 
-Register Page
+📝 Register Page..
 
 ![Register Page](./screenshots/register.png)
 
-🎯 Mission Dashboard
+🎯 Mission Dashboard..
 
 ![Dashboard Page](./screenshots/dashboard.png)
 ![Create Mission ](./screenshots/create%20mission.png)
 ![Created Mission](./screenshots/created%20mission.png)
 
-🎒 Inventory
+🎒 Inventory..
 
 ![Inventory Page](./screenshots/inventory.png)
 ![Created Inventory](./screenshots/created%20inventory.png)
 
-🏆 Achievements
+🏆 Achievements..
 
 ![Achievements Page](./screenshots/achievements.png)
+
+Settings Page
+
+![Profile](./screenshots/profile%20settings.png)
+![Sound](./screenshots/sound%20settings.png)
+![Security & Manage Account](./screenshots/security%20nad%20accound%20manage%20settings.png)
 
 ---
 
