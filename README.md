@@ -326,7 +326,7 @@ MongoDB Database
 
 ![Achievements Page](./screenshots/achievements.png)
 
-Settings Page
+⚙️ Settings Page
 
 ![Profile](./screenshots/profile%20settings.png)
 ![Sound](./screenshots/sound%20settings.png)
