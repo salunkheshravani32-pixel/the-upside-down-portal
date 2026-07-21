@@ -227,13 +227,11 @@ The frontend will be available at the Vite development URL shown in your termina
 
 The backend requires the following environment variables:
 
-```
-Variable    | Description
-____________________________________________________________
-"PORT"      | Backend server port
-"MONGO_URI" | MongoDB Atlas connection string
-"JWT_SECRET"| Secret key used for JWT authentication
-```
+|Variable | Description |
+---------------------------------------------------------
+|"PORT" | Backend server port |
+|"MONGO_URI" | MongoDB Atlas connection string |
+|"JWT_SECRET" | Secret key used for JWT authentication |
 
 ⚠️ Never commit your ".env" file or database credentials to GitHub.
 
