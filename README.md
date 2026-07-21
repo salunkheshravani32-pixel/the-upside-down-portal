@@ -229,6 +229,7 @@ The backend requires the following environment variables:
 
 ```
 Variable    | Description
+____________________________________________________________
 "PORT"      | Backend server port
 "MONGO_URI" | MongoDB Atlas connection string
 "JWT_SECRET"| Secret key used for JWT authentication
